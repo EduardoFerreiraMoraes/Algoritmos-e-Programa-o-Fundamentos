@@ -1,2 +1,2 @@
-# Algoritmos-e-Programa-o-Fundamentos
+# Algoritmos-e-Programa-Fundamentos
 Algoritmos e Programação: Fundamentos/UNISINOS
